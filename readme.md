@@ -1,4 +1,4 @@
-# RBF + MULTI-HEAD ATTENTION
+# RBF Neural Network + MULTI-HEAD ATTENTION
 - Crawl moviescripts from imsdb
 - Preprocess it using NLP toolkit
 - Pass it through Radial Basis function Neural Network
